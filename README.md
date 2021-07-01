@@ -1,5 +1,5 @@
 
-# Mecanography 
+# Mecanography Game
 
 It's a Mecanography game where you need to write the same text without errors and being the most fast as you can. The border of the text-area it will show you if you doing great or not, if you're doing right, the border will be blue, but if you're not doing it right the border will be red.... but if you completed the border will be green.
 
